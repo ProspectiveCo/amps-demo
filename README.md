@@ -1,7 +1,7 @@
 Run amps with this config
 
 ```
-ampsServer --config ./config.xml
+ampServer --config ./config.xml
 ```
 
 Run the population script for the `orders` topic

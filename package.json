@@ -1,11 +1,11 @@
 {
-    "name": "amps-ftx-demo",
+    "name": "amps-demo",
     "private": true,
     "version": "0.1.0",
     "main": "populate.js",
-    "description": "A demo of loading data from FTX into AMPS",
+    "description": "A demo of loading JSON data into AMPS",
     "license": "MIT",
     "devDependencies": {
-        "amps": "^5.3.3-1.341463.3178107",
+        "amps": "^5.3.3-1.341463.3178107"
     }
 }
